@@ -1,6 +1,6 @@
 {
   "name": "repo-first-commit",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get the first commit of any GitHub repo.",
   "repository": {
     "url": "egoist/repo-first-commit",
